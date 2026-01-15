@@ -3,6 +3,7 @@
 *.xlsx
 *.xls
 *.txt
+ *.json
 
 #Folders to ignore
 data/
