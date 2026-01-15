@@ -4,7 +4,7 @@
 *.xls
 *.txt
  *.json
-
+#adding files is fun!
 #Folders to ignore
 data/
 output/
