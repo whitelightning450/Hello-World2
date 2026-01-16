@@ -4,6 +4,12 @@
 *.xls
 *.txt
  *.json
+
+# Logs and output files
+*.log
+*.out
+*.tmp
+*.bak
 #adding files is fun!
 #Folders to ignore
 data/
